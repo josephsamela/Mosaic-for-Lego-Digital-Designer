@@ -30,10 +30,10 @@ Mosaic converts images to LEGO mosaics that can be opened with LEGO Digital Desi
 *Mona Lisa* created from 48x96px jpg image - 4608 bricks, ~15x30in when built
 
 ![Sunday on La Grande Jatte](screenshots/park.png?raw=true "Sunday on La Grande Jatte")
-*A Sunday Afternoon on the Island of La Grande Jatte* created from 150×100px jpg image - 15000 bricks, ~48x32in when built
+*A Sunday Afternoon on the Island of La Grande Jatte* created from 150X100px jpg image - 15000 bricks, ~48x32in when built
 
-###You call that a GUI?
-  I'm working on it, calm yourself. I'm working on a launcher folks can drag-and-drop image files onto.
+###You call that a GUI? 
+I'm working on a launcher to drag-and-drop image files onto.
 
 ### Author
 * **Joe Samela** - *Initial work* - [ForYourBrain.net](https://www.ForYourBrain.net)
