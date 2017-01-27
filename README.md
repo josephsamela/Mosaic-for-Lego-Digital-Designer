@@ -24,13 +24,13 @@ Mosaic converts images to LEGO mosaics that can be opened with LEGO Digital Desi
   4. Open .lxf with LEGO Digital Designer 4.3
 
 ![Starry Night](screenshots/starrynight.png?raw=true "Starry Night")
-*Starry Night* created from 48x48px jpg image - 2304 bricks, ~15x15in when built
+*Starry Night* created from 48x48px jpg image - 2304 bricks, ~15x15in
 
 ![Mona Lisa](screenshots/mona.png?raw=true "Mona Lisa")
-*Mona Lisa* created from 48x96px jpg image - 4608 bricks, ~15x30in when built
+*Mona Lisa* created from 48x96px jpg image - 4608 bricks, ~15x30in
 
 ![Sunday on La Grande Jatte](screenshots/park.png?raw=true "Sunday on La Grande Jatte")
-*A Sunday Afternoon on the Island of La Grande Jatte* created from 150X100px jpg image - 15000 bricks, ~48x32in when built
+*A Sunday Afternoon on the Island of La Grande Jatte* created from 150X100px jpg image - 15000 bricks, ~48x32in
 
 ###You call that a GUI? 
 I'm working on a launcher to drag-and-drop image files onto. It's going to be great!
