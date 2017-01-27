@@ -1,6 +1,8 @@
-#Mosaic-for-Lego-Digital-Designer
+#Mosaic For Lego Digital Designer
 
-##WHAT IS MOSAIC?
+(banner.png?raw=true "banner")
+
+##What is Mosaic?
 Mosaic converts images to LEGO mosaics that can be opened with LEGO Digital Designer.
 
 ###How does it work?
@@ -25,4 +27,4 @@ Mosaic converts images to LEGO mosaics that can be opened with LEGO Digital Desi
   I'm working on it, calm yourself. I'm working on a launcher folks can drag-and-drop image files onto.
 
 ### Author
-* **Joe Samela** - *Initial work* - [Website](https://www.ForYourBrain.net)
+* **Joe Samela** - *Initial work* - [ForYourBrain.net](https://www.ForYourBrain.net)
