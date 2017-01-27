@@ -23,8 +23,9 @@ Mosaic converts images to LEGO mosaics that can be opened with LEGO Digital Desi
   3. Select a destination to save your .lxf mosaic
   4. Open .lxf with LEGO Digital Designer 4.3
 
-![STARRY NIGHT](screenshots/starrynight.png?raw=true "Starry Night")
-![MONA LISA](screenshots/mona.png?raw=true "Mona Lisa")
+![Starry Night](screenshots/starrynight.png?raw=true "Starry Night")
+![Mona Lisa](screenshots/mona.png?raw=true "Mona Lisa")
+![Sunday on La Grande Jatte](screenshots/park.png?raw=true "Sunday on La Grande Jatte")
 
 ###You call that a GUI?
   I'm working on it, calm yourself. I'm working on a launcher folks can drag-and-drop image files onto.
