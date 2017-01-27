@@ -33,7 +33,7 @@ Mosaic converts images to LEGO mosaics that can be opened with LEGO Digital Desi
 *A Sunday Afternoon on the Island of La Grande Jatte* created from 150X100px jpg image - 15000 bricks, ~48x32in when built
 
 ###You call that a GUI? 
-I'm working on a launcher to drag-and-drop image files onto.
+I'm working on a launcher to drag-and-drop image files onto. It's going to be great!
 
 ### Author
 * **Joe Samela** - *Initial work* - [ForYourBrain.net](https://www.ForYourBrain.net)
