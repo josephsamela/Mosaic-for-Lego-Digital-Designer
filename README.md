@@ -1,6 +1,6 @@
 #Mosaic For Lego Digital Designer
 
-(banner.png?raw=true "banner")
+![Mosaic for Lego Digital Designer](banner.jpg?raw=true "Mosaic for Lego Digital Designer")
 
 ##What is Mosaic?
 Mosaic converts images to LEGO mosaics that can be opened with LEGO Digital Designer.
