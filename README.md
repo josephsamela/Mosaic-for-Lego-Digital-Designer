@@ -37,4 +37,4 @@ Launcher is in the works! It will be distributed for Windows and MacOS.
 ![Mosaic GUI](screenshots/GUI.png?raw=true "Mosaic GUI")
 
 ### Author
-* **Joe Samela** - *Initial work* - [ForYourBrain.net](www.foryourbrain.net)
+* **Joe Samela** - *Initial work* - [ForYourBrain.net](http://www.foryourbrain.net)
