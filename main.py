@@ -9,7 +9,8 @@ from PIL import Image
 
 #Prompts user to select .jpg image
 root = Tk()
-root.fileName = filedialog.askopenfilename( filetypes = ( ("Image files", "*.jpg"),("All files", "*.*") ) )
+root.withdraw()
+root.fileName = filedialog.askopenfilename(title = "Select file", filetypes = ( ("Image files", ("*.jpg", "*.png")),("All files", "*.*") ) )
 
 ##### PROCESS IMAGE #####
 
@@ -89,6 +90,7 @@ BuildingInstructions = ET.SubElement(LXFML, "BuildingInstructions").text = " "
 #Generates output file
 #Prompts user to select .jpg image
 root = Tk()
-root.fileName = filedialog.asksaveasfile(defaultextension=".lxfml")
+root.withdraw()
+root.fileName = filedialog.asksaveasfile(title = "Select Save Location", defaultextension=".lxfml")
 tree = ET.ElementTree(LXFML)
 tree.write(root.fileName.name,encoding='UTF-8', xml_declaration=True)
