@@ -15,7 +15,7 @@ root.fileName = filedialog.askopenfilename(title = "Select file", filetypes = ( 
 ##### PROCESS IMAGE #####
 
 #Imports Image
-if lroot.fileName == "":
+if root.fileName == "":
     root.destroy()
     exit()
 
