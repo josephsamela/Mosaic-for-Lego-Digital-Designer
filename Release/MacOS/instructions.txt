@@ -1,0 +1,2 @@
+1. Copy "Mosaic" and "main" to Applications folder.
+2. Launch Mosaic Application
