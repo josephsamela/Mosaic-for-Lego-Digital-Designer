@@ -1,23 +1,23 @@
-#Mosaic For Lego Digital Designer
+# Mosaic For Lego Digital Designer
 
 ![Mosaic for Lego Digital Designer](banner.png?raw=true "Mosaic for Lego Digital Designer")
 
-##What is Mosaic?
+## What is Mosaic?
 Mosaic converts images to LEGO mosaics that can be opened with LEGO Digital Designer.
 
-###How does it work?
+### How does it work?
   1. The image is processed pixel by pixel
   2. Colors are reduced to the LEGO color palette
   3. Each pixel becomes a 1x1 brick
   4. Bricks are written to .lxf file
 
-###How to run mosaic
+### How to run mosaic
   1. Download the program files
   2. Download Python 3.5 for your operating system
   3. Install Tkinter and Pillow packages with PIP
   4. Run main.py with Python 3.5
 
-###How to use mosaic
+### How to use mosaic
   1. Run main.py with Python 3.5
   2. Select a .jpg or .png image
   3. Select a destination to save your .lxf mosaic
@@ -32,7 +32,7 @@ Mosaic converts images to LEGO mosaics that can be opened with LEGO Digital Desi
 ![Sunday on La Grande Jatte](screenshots/park.png?raw=true "Sunday on La Grande Jatte")
 *A Sunday Afternoon on the Island of La Grande Jatte* created from 150X100px jpg image - 15000 bricks, ~48x32in
 
-###Why no GUI? 
+### Why no GUI? 
 Launcher is in the works! It will be distributed for Windows and MacOS.
 ![Mosaic GUI](screenshots/GUI.png?raw=true "Mosaic GUI")
 
